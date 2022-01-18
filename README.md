@@ -1,7 +1,7 @@
 # shiseibank_monthly_point_application
 新生銀行のポイントプログラムに毎月、自動で登録するための方法です。
 
-// step
+step
   firefoxのインストール
   firefoxのadd onとしてiMacrosをインストール
   iMacrosにマクロ作成 (コピペしてください)
